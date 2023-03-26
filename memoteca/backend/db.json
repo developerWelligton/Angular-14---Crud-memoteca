@@ -67,21 +67,21 @@
       "conteudo": "asdasdsad",
       "autoria": "asdasdas",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": 13
     },
     {
       "conteudo": "asdsadsa",
       "autoria": "asdsad",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 14
     },
     {
       "conteudo": "aaaaaaaaa",
       "autoria": "aaaaaaaaaa",
       "modelo": "modelo2",
-      "favorito": true,
+      "favorito": false,
       "id": 15
     }
   ]
