@@ -4,72 +4,83 @@
       "conteudo": "A vida é um livro em branco, cabe a nós escrevermos nossa história com as escolhas que fazemos a cada dia.",
       "autoria": "Sophie Oliveira",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "A vida é uma jornada única e preciosa, aproveite-a ao máximo",
       "autoria": "Ana Luiza",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Acredite em si mesmo, tenha coragem para seguir seus sonhos e persistência para superar os obstáculos. O sucesso é uma questão de atitude e determinação",
       "autoria": "Pedro Henrique",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "A vida é um presente que devemos valorizar a cada momento. Aproveite as oportunidades, aprenda com as adversidades e não perca tempo com o que não tem valor. Cultive bons relacionamentos, mantenha a mente aberta e o coração cheio de amor. Seja grato pelo que tem e lute pelo que quer. Não espere que a felicidade chegue até você, vá atrás dela. A vida é curta demais para viver com arrependimentos. Então, viva intensamente, faça o bem e deixe sua marca no mundo.",
       "autoria": "Mariana Silva",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "asdasdsadsad",
       "autoria": "asdasdasdsadasd",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 8
     },
     {
       "id": 9,
       "conteudo": "asdasd",
       "autoria": "aaa",
-      "modelo": "modelo1"
-    },
+      "modelo": "modelo1",
+      "favorito": false    },
     {
       "conteudo": "asdasda",
       "autoria": "aaasss",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 10
     },
     {
       "conteudo": "asdsad",
       "autoria": "asdsad",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 11
     },
     {
       "conteudo": "asdsad",
       "autoria": "asdsadsad",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 12
     },
     {
       "conteudo": "asdasdsad",
       "autoria": "asdasdas",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 13
     },
     {
       "conteudo": "asdsadsa",
       "autoria": "asdsad",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 14
     },
     {
       "conteudo": "aaaaaaaaa",
       "autoria": "aaaaaaaaaa",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 15
     }
   ]
