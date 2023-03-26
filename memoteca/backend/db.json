@@ -36,20 +36,6 @@
       "id": 8
     },
     {
-      "id": 9,
-      "conteudo": "asdasd",
-      "autoria": "aaa",
-      "modelo": "modelo1",
-      "favorito": false
-    },
-    {
-      "conteudo": "asdasda",
-      "autoria": "aaasss",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 10
-    },
-    {
       "conteudo": "asdsad",
       "autoria": "asdsad",
       "modelo": "modelo2",
@@ -71,18 +57,11 @@
       "id": 13
     },
     {
-      "conteudo": "asdsadsa",
-      "autoria": "asdsad",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 14
-    },
-    {
-      "conteudo": "aaaaaaaaa",
-      "autoria": "aaaaaaaaaa",
-      "modelo": "modelo2",
-      "favorito": false,
-      "id": 15
+      "id": 16,
+      "conteudo": "erd",
+      "autoria": "wendell",
+      "modelo": "modelo3",
+      "favorito": true
     }
   ]
 }
