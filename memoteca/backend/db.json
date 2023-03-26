@@ -11,21 +11,21 @@
       "conteudo": "A vida é uma jornada única e preciosa, aproveite-a ao máximo",
       "autoria": "Ana Luiza",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "Acredite em si mesmo, tenha coragem para seguir seus sonhos e persistência para superar os obstáculos. O sucesso é uma questão de atitude e determinação",
       "autoria": "Pedro Henrique",
       "modelo": "modelo2",
-      "favorito": true,
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "A vida é um presente que devemos valorizar a cada momento. Aproveite as oportunidades, aprenda com as adversidades e não perca tempo com o que não tem valor. Cultive bons relacionamentos, mantenha a mente aberta e o coração cheio de amor. Seja grato pelo que tem e lute pelo que quer. Não espere que a felicidade chegue até você, vá atrás dela. A vida é curta demais para viver com arrependimentos. Então, viva intensamente, faça o bem e deixe sua marca no mundo.",
       "autoria": "Mariana Silva",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 7
     },
     {
